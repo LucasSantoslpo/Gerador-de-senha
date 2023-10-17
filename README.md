@@ -1,3 +1,2 @@
 # Gerador-de-senha
  
-//--lucas--!//
